@@ -44,7 +44,7 @@ p {
 
 button {
     width: 35%;
-    padding: 2%;
+    padding: 15px 10px;
     display: flex;
     justify-content: space-evenly;
     margin: auto;
@@ -137,7 +137,7 @@ h3 {
 .email{
     
     margin-bottom: 1%;
-    padding: 1.5%;
+    padding: 15px 10px;
     width: 35%;
     border-radius: 5px;
     
@@ -148,7 +148,7 @@ h3 {
     display: block;
     margin: auto;
     margin-bottom: 3%;
-    padding: 1.5%;
+    padding: 15px 10px;
     width: 35%;
     border-radius: 5px;
 }
@@ -235,7 +235,7 @@ span {
     button {
         width: 100%;
         display: flex;
-        
+        padding: 15px 10px;
         margin: auto;
         border: 1px solid;
         box-shadow: 5px 10px #FFFFFF;
